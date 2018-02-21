@@ -1,5 +1,6 @@
 /**
 	@author Antonio Fuscaldo
+	@version 1.0.1
 */
 
 import java.awt.EventQueue;
